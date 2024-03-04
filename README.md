@@ -25,5 +25,7 @@ Xiong, J., Feng, M., Wang, X., Jiang, C., Zhang, N., & Zhao, Z. (2024). Decoding
 ## Authors
 1. @ [Jize Xiong](https://github.com/Jasonxiong824)   <br>
 2. @ [Mingyang Feng](https://github.com/1366560t)   <br>
+3. @ <br>
 4. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang)  <br>
+5. @ [Ning Zhang](https://github.com/zning1994)  <br>
 6. <br>
